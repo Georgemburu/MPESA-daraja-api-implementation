@@ -2,4 +2,4 @@
 Mpesa Daraja Api implementation
 
 
-![alt text](../media/XXXX.png?raw=true)
+![alt text](./Screenshot_2020-09-12-21-56-39.png?raw=true)
